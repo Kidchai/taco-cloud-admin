@@ -1,0 +1,13 @@
+package com.example.tacocloudadmin;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TacoCloudAdminApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
